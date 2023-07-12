@@ -1,8 +1,22 @@
+body{
+    background-color: lightgray;
+ background-image: url("a.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+}
+
+
 h1 {
 
     background-color: blanchedalmond;
     color: rgb(199, 167, 167);
 }
+h4{
+    font-size:20px
+}
+
 
 #orderListId{ 
     background-color:green;
@@ -13,12 +27,26 @@ h1 {
 color: white;
 }
 .textStyle{
-font-size: 25px;
+font-size: 20px;
+background-color: red;
 }
 
-
-
-
-
+h3{
+     font-size: 30px;
+}
+ol{
+    color: greenyellow;
+}
+ul{
+    color: rgb(200, 41, 41);
+}
+/*bacground property*/
+background-color
+/*background-image*/
+/*
+/*background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position*/
 
 
